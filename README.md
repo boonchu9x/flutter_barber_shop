@@ -1,6 +1,7 @@
-# flutterbarbershop
+# Flutter Shop Demo
 
-A new Flutter application.
+A project flutter shop demo follow design:
+![Image Screen Shot](assets/images/screen_shot.jpg)
 
 ## Getting Started
 
